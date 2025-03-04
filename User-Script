@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         User-Script Bypass Lysss | Powered By Swagger Boyz API
+// @icon         
 // @namespace    Lyss & BanHammer.JS
 // @version      2.0
 // @description  Bypass Ad-Links
@@ -143,7 +144,7 @@ async function start() {
             </style>
         </head>
         <body>
-            <img src="https://files.catbox.moe/mojnhg.png" alt="Logo" class="logo">
+            <img src="https://files.catbox.moe/u02qc6.jpeg" alt="Logo" class="logo">
             <p id="statusMessage" class="status-message">Processing your link...</p>
             <div class="progress-container">
                 <div class="progress-bar"></div>
