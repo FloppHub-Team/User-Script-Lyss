@@ -15,7 +15,7 @@
 // @match        *://keyrblx.com/*
 // @match        *://mobile.codex.lol/*
 // @match        *://pandadevelopment.net/getkey*
-//@match        https://loot-link.com/s?*
+// @match        https://loot-link.com/s?*
 // @match        https://loot-links.com/s?*
 // @match        https://lootlink.org/s?*
 // @match        https://lootlinks.co/s?*
