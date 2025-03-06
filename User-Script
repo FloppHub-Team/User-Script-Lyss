@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         User-Script Bypass Lysss | Powered By Swagger Boyz API
+// @name         User-Script Bypass Lyss | Powered By Swagger Boyz API
 // @icon         https://files.catbox.moe/wheikw.png
-// @namespace    Lyss & BanHammer.JS
+// @namespace    Lyss & Mw_Anonymous
 // @version      2.0
 // @description  Bypass Ad-Links
 // @run-at       document-end
@@ -28,7 +28,7 @@
 // @exclude      *://*.google.*/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_getResourceText
-// @author       Lyss & BanHammer.JS
+// @author       Lyss & Mw_Anonymous
 
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js
